@@ -12,7 +12,7 @@
 [https://www.bilibili.com/video/BV1aj41117oD/](https://www.bilibili.com/video/BV1aj41117oD/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+Vue的在线教育系统(源码+数据库+18000字论文)096
 
